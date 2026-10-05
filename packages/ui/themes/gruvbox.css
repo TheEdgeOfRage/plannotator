@@ -31,6 +31,8 @@
   --code-bg: #32302f;
   --focus-highlight: #83a598;
 
+  /* The gruvbox Shiki theme sets the git "added" colour to the text colour,
+     so @pierre/diffs would draw added lines grey. Use gruvbox green. */
   --diffs-addition-color-override: #b8bb26;
 }
 

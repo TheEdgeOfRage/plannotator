@@ -30,6 +30,8 @@
 
   --code-bg: #32302f;
   --focus-highlight: #83a598;
+
+  --diffs-addition-color-override: #b8bb26;
 }
 
 .theme-gruvbox.light {
@@ -59,4 +61,6 @@
 
   --code-bg: #ebdbb2;
   --focus-highlight: #076678;
+
+  --diffs-addition-color-override: #79740e;
 }
